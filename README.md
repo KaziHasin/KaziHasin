@@ -39,7 +39,7 @@ With strong expertise in Laravel, Vue, React, Node.js, and modern JavaScript eco
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziHasin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaziHasin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaziHasin)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
