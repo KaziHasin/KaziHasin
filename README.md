@@ -1,4 +1,33 @@
+## 👋 Hey there! I'm Kazi Hasin
 
+I'm a passionate Full Stack Developer who enjoys building modern, scalable web applications that solve real-world problems. I specialize in crafting clean backend architectures and intuitive frontend experiences.
+
+With strong expertise in Laravel, Vue, React, Node.js, and modern JavaScript ecosystems, I focus on building enterprise-grade systems, SaaS platforms, and business-driven applications.
+
+🚀 I actively leverage AI-powered development tools like Cursor, GitHub Copilot, ChatGPT, and Claude for rapid prototyping, debugging, architecture planning, and accelerating development workflows.
+
+💡 I believe in writing maintainable code, designing efficient systems, and continuously learning to stay ahead in the evolving tech landscape.
+
+---
+
+### 🛠 What I Work On
+- Enterprise Applications  
+- E-Commerce & Warehouse Systems  
+- ERP Integrations  
+- API-Driven Architectures  
+- AI-assisted Development Workflows  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced System Design  
+- AI Integrations (RAG, MCP-based workflows)  
+- Scalable SaaS Architecture  
+- Business-focused Software Solutions  
+
+---
+
+⭐ Always building. Always learning.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kazihasin36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-hasin-4170a4265) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kaziHasin12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@khengineering12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkazi012@gmail.com) 
 
