@@ -39,7 +39,7 @@ With strong expertise in Laravel, Vue, React, Node.js, and modern JavaScript eco
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziHasin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaziHasin)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=KaziHasin&theme=darkhub&no-frame=true&margin-w=15)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -50,7 +50,7 @@ With strong expertise in Laravel, Vue, React, Node.js, and modern JavaScript eco
 ---
 [![](https://visitcount.itsvg.in/api?id=KaziHasin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kazihasin12) 
 
   
